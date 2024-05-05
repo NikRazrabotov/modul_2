@@ -14,7 +14,7 @@
 <font SIZE="24"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="default" ID="ID_602083445" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#3c3836" BACKGROUND_COLOR="#33ffcc" STYLE="rectangle" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.9 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#886ee8" BORDER_DASH_LIKE_EDGE="true" BORDER_DASH="SOLID" VGAP_QUANTITY="3 pt">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-9 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-8.25 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="SansSerif" SIZE="11" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <edge STYLE="bezier" COLOR="#93a1a1" WIDTH="3" DASH="SOLID"/>
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
@@ -222,8 +222,7 @@
       Паривельное определиение
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Float (-3,4*10 в 38 степ ...... 3,4*10 в 38 степ" ID="ID_1374607926" CREATED="1714823797922" MODIFIED="1714830684443" COLOR="#ffffff" BACKGROUND_COLOR="#860109">
 <node TEXT="val number: Float = 2.0f Обязательно литерал f" ID="ID_1303075282" CREATED="1714824174229" MODIFIED="1714830684441" COLOR="#ffffff" BACKGROUND_COLOR="#860109"/>
 </node>
@@ -253,8 +252,7 @@
       В Kotlin логический тип представлен типом Boolean
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node FOLDED="true" POSITION="bottom_or_right" ID="ID_881912450" CREATED="1714830258923" MODIFIED="1714835027229" BACKGROUND_COLOR="#cc6303"><richcontent TYPE="NODE">
 
 <html>
@@ -267,7 +265,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 <html>
@@ -279,8 +276,7 @@
       Логический тип - это тип данных, описывающий результат логического выражения. Может принимать только 2 значения: true или false.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="true" ID="ID_600949118" CREATED="1714835030320" MODIFIED="1714835036349"/>
 <node TEXT="false" ID="ID_970906970" CREATED="1714835036565" MODIFIED="1714835040018"/>
 </node>
@@ -294,8 +290,7 @@
       Логическое выражение - это выражение, результат которого может быть представлен одним из значений: Ложь или Истина
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node POSITION="bottom_or_right" ID="ID_513543759" CREATED="1714830258929" MODIFIED="1714835228439" BACKGROUND_COLOR="#cc6303"><richcontent TYPE="NODE">
 
@@ -309,7 +304,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Конъюнкция (&quot;И&quot;) (&amp;&amp;)" FOLDED="true" ID="ID_391979370" CREATED="1714835213393" MODIFIED="1714837307165" BACKGROUND_COLOR="#cc6303">
 <font BOLD="false"/>
@@ -323,7 +317,6 @@
     <pre fr-original-class="hljs bash" fr-original-style="" data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage="" data-darkreader-inline-color="" style="display: block; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgb(35, 35, 35); background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; color: rgb(230, 225, 220); white-space: pre-wrap">(3 &gt; 2) &amp;&amp; (3 &gt; 1) //<span fr-original-class="hljs-literal" fr-original-style="">true</span></pre>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="true"/>
 </node>
@@ -340,7 +333,6 @@
     <pre fr-original-class="hljs bash" fr-original-style="" data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage="" data-darkreader-inline-color="" style="display: block; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgb(35, 35, 35); background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; color: rgb(230, 225, 220); white-space: pre-wrap">(3 &gt; 2) &amp;&amp; (3 &gt; 1) //<span fr-original-class="hljs-literal" fr-original-style="">true</span></pre>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="true"/>
 </node>
@@ -360,7 +352,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node POSITION="bottom_or_right" ID="ID_801277181" CREATED="1714837126002" MODIFIED="1714837126002"><richcontent TYPE="NODE">
 
@@ -372,7 +363,6 @@
     <pre fr-original-class="hljs javascript" fr-original-style="" data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage="" data-darkreader-inline-color="" style="display: block; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgb(35, 35, 35); background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; color: rgb(230, 225, 220); white-space: pre-wrap">val a = <span fr-original-class="hljs-number" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(165, 194, 97);">5</span> != <span fr-original-class="hljs-number" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(165, 194, 97);">7</span> <span fr-original-class="hljs-comment" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(188, 148, 88); font-style: italic;">// a = true</span></pre>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node POSITION="bottom_or_right" ID="ID_759684417" CREATED="1714837126012" MODIFIED="1714837126012"><richcontent TYPE="NODE">
@@ -385,7 +375,6 @@
     <pre fr-original-class="hljs javascript" fr-original-style="" data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage="" data-darkreader-inline-color="" style="display: block; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgb(35, 35, 35); background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; color: rgb(230, 225, 220); white-space: pre-wrap">val b = <span fr-original-class="hljs-number" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(165, 194, 97);">9</span> != <span fr-original-class="hljs-number" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(165, 194, 97);">9</span> <span fr-original-class="hljs-comment" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(188, 148, 88); font-style: italic;">// b = false</span></pre>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -401,7 +390,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node FOLDED="true" ID="ID_1450658608" CREATED="1714837218746" MODIFIED="1714837261251"><richcontent TYPE="NODE">
 
@@ -413,7 +401,6 @@
     <pre fr-original-class="hljs javascript" fr-original-style="" data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage="" data-darkreader-inline-color="" style="display: block; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgb(35, 35, 35); background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; color: rgb(230, 225, 220); white-space: pre-wrap">!<span fr-original-class="hljs-literal" fr-original-style="">true</span><br fr-original-style=""/>!(<span fr-original-class="hljs-number" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(165, 194, 97);">6</span> &gt; <span fr-original-class="hljs-number" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(165, 194, 97);">5</span>)<br fr-original-style=""/>!isEven</pre>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="true"/>
 <node FOLDED="true" ID="ID_1293500224" CREATED="1714837256477" MODIFIED="1714837256477"><richcontent TYPE="NODE">
@@ -428,7 +415,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1817099918" CREATED="1714837256479" MODIFIED="1714837256479"><richcontent TYPE="NODE">
 
@@ -440,7 +426,6 @@
     <pre fr-original-class="hljs javascript" fr-original-style="" data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage="" data-darkreader-inline-color="" style="display: block; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgb(35, 35, 35); background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; color: rgb(230, 225, 220); white-space: pre-wrap">!<span fr-original-class="hljs-literal" fr-original-style="">true</span><br fr-original-style=""/>!(<span fr-original-class="hljs-number" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(165, 194, 97);">6</span> &gt; <span fr-original-class="hljs-number" fr-original-style="" data-darkreader-inline-color="" style="color: rgb(165, 194, 97);">5</span>)<br fr-original-style=""/>!isEven</pre>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -465,7 +450,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="true"/>
 <node TEXT="fun main() {&#xa;    var numberForCheck = -5&#xa;    var isPositiveOrEven = numberForCheck &gt; 0 || numberForCheck % 2 == 0&#xa;    println(&quot;Is number positive or even? - $isPositiveOrEven&quot;)&#xa;&#xa;    numberForCheck = 9&#xa;    isPositiveOrEven = numberForCheck &gt; 0 || numberForCheck % 2 == 0&#xa;    println(&quot;Is number positive or even? - $isPositiveOrEven&quot;)&#xa;}" ID="ID_1073298014" CREATED="1714836453154" MODIFIED="1714836456078"/>
@@ -481,7 +465,6 @@
     <pre fr-original-class="hljs javascript" fr-original-style="" data-darkreader-inline-bgcolor="" data-darkreader-inline-bgimage="" data-darkreader-inline-color="" style="display: block; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgb(35, 35, 35); background-image: null; background-repeat: repeat; background-attachment: scroll; background-position: null; color: rgb(230, 225, 220); white-space: pre-wrap">val shouldPrintErrors = <span fr-original-class="hljs-literal" fr-original-style="">true</span></pre>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="true"/>
 </node>
@@ -500,7 +483,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1998461798" CREATED="1714830258940" MODIFIED="1714830645247" BACKGROUND_COLOR="#cc6303"><richcontent TYPE="NODE">
@@ -515,7 +497,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1309103937" CREATED="1714830258946" MODIFIED="1714830645248" BACKGROUND_COLOR="#cc6303"><richcontent TYPE="NODE">
@@ -530,7 +511,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -540,5 +520,6 @@
 <node TEXT="массив" ID="ID_1082129461" CREATED="1714823619406" MODIFIED="1714830614578" COLOR="#fdfdfd" BACKGROUND_COLOR="#0053c0"/>
 </node>
 </node>
+<node TEXT="" POSITION="top_or_left" ID="ID_1316343438" CREATED="1714899685441" MODIFIED="1714899685441"/>
 </node>
 </map>
