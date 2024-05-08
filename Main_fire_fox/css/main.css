@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+.background {
+  max-width: 100%;
+  margin: 0 auto;
+  background-image: url(../images/background.jpg);
+  height: 863px;
+  /* width: 100%; */
+}
+
+.background_img {}
